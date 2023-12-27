@@ -20,4 +20,8 @@ npx nx serve mfe -o
 
 npx nx build mfe
 
-## deployed application
+## Deployed application
+
+https://nx16-native-federation-by-commands-mf.netlify.app/
+
+https://nx16-native-federation-by-commands-mf.netlify.app/remoteEntry.json
